@@ -23,7 +23,7 @@ chmod +x hello-world.sh
 
 # Run the script with the required flags
 ./hello-world.sh --count 5 --phrase "Hello World"
-
+```
 ## Screenshot
 
 Here is a screenshot of the script in action:
